@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "706950361710",
+    "project_id": "chiggy-wiggy-86eb2",
+    "storage_bucket": "chiggy-wiggy-86eb2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:706950361710:android:c8b5e124212c0c217f2c7f",
+        "android_client_info": {
+          "package_name": "com.chiggywiggy.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "706950361710-j0lqqpvlmfat83tcu2li9s8ssvqqrk5q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMjfDuxvBB1G9GYOONIss5jbs0HFclz6M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "706950361710-j0lqqpvlmfat83tcu2li9s8ssvqqrk5q.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "706950361710-pqou119mlq826dq1jgtiuia5fcics3p2.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.chiggywiggy.app"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
